@@ -1,16 +1,14 @@
-## Hi there 👋
+# About Me!
 
-<!--
-**kyle-hagerstrom/kyle-hagerstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Kyle Hagerstrom and I'm currently an undergrad student at the University of Virginia!
 
-Here are some ideas to get you started:
+Major: Global Studies - Sustainablity and Enviornments\
+Minor: Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Data Intern with the Nitrogen Working Group through the Office for Sustainablity
+- 🌱 I’m currently learning how to use git and GitHub to manage and collaborate on projects for classes and work
+- 👯 I’m looking to collaborate on Sustainiablity and Enviornmental related projects incorporating data science and analysis
+- 💬 Ask me about the countries I grew up abroad in!
+- 📫 How to reach me: [school email - cts4ys@virginia.edu] [personal - khagerstrom42@gmail.com]
+
+
